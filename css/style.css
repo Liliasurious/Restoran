@@ -598,6 +598,7 @@ footer{
     .section2boss22{
         height: 100%;
         width: 100%;
+        background-size: cover;
     }
     .section2smoll21 p{
         font-size: 35px;
